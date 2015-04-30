@@ -1,4 +1,4 @@
-#askell-Skeleton
+#Haskell-Skeleton
 
 Features:
 
