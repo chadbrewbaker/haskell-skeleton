@@ -1,9 +1,13 @@
-#Haskell-Skeleton
+#askell-Skeleton
 
 Features:
+
 hlint for stylechecks
+
 hunit for unit testing
+
 quickheck for property based tests
+
 criterion for benchmarking
 
 ##TODO:
