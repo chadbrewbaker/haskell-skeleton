@@ -2,7 +2,7 @@
 module Main where
 
 import Criterion.Main
-import Skeleton 
+import Lib 
 
 main = defaultMain [
   bgroup "factorial" [ bench "2" $ whnf factorial 2
